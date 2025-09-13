@@ -39,7 +39,7 @@ function Hero() {
         {/* Buttons */}
         <div className="flex gap-4 mt-6 flex-wrap justify-center md:justify-start">
           <a
-            href="/Anurag_Singh_Resume.pdf"
+            href="/RajATSResume.pdf"
             download
             className="relative inline-block px-6 py-3 font-semibold border-2 border-cyan-400 text-cyan-400 hover:text-white group overflow-hidden btn-floaty rounded-2xl"
           >
