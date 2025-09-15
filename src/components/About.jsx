@@ -58,7 +58,7 @@ function About() {
   <div className="relative group w-full sm:w-[340px] md:w-[400px] lg:w-[480px] transition-transform duration-300">
     <img
       src={profile}
-      alt="Anurag Singh"
+      alt="Raj Sharma"
       className="w-full rounded-4xl h-auto object-cover transform 
       group-hover:-translate-y-2 
       group-hover:-translate-x-3 
